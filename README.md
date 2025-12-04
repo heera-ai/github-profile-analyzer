@@ -6,6 +6,12 @@ A web application that analyzes GitHub profiles and generates comprehensive insi
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## Live Demo
+
+**Try it now:** [https://github-profile-analyzer-5rhk.onrender.com](https://github-profile-analyzer-5rhk.onrender.com)
+
+> Note: The demo may take a few seconds to wake up if it hasn't been used recently (free tier cold start).
+
 ## Features
 
 - **Smart Input Detection** - Accepts GitHub username, profile URL, or email
